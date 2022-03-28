@@ -1,0 +1,17 @@
+jjjjjjjjjjjjjjjjjjjjjjjjj
+
+jjj
+iiii
+<<<<<<< .mine
+
+=======
+
+>>>>>>> .theirs
+
+<<<<<<< .mine
+hhh
+www
+=======
+qqqqqqqqqqqqqqqqqqqqqqq
+
+>>>>>>> .theirs
