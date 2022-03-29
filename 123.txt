@@ -1,4 +1,8 @@
 sai san
 sai san
 san sai san sai
+<<<<<<< .mine
 qqqqqq
+=======
+1234566
+>>>>>>> .theirs
